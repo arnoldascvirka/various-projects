@@ -65,3 +65,4 @@ print("Calculates the difference between 2 dates")
 diff = datetime.datetime.now() - date
 print("In the difference, we get the data type: ", type(diff))
 print("The difference between two days is: ", diff)
+
