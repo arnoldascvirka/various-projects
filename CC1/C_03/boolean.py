@@ -1,4 +1,4 @@
-honesty = True 
+honesty = True
 print(honesty)
 
 archaic = False

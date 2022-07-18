@@ -1,4 +1,3 @@
-
 # class OO:
 #    skaicius = int(input("Ivesti skaiciu: "))
 #    skaicius2 = int(input("Ivesti skaiciu 2: "))
@@ -22,9 +21,9 @@
 
 # class BB:
 #    num = int(input("Ivesti skaiciu:"))
-#    if (num % 2) == 0: 
-#        print("Skaičius yra lygninis") 
-#    else: 
+#    if (num % 2) == 0:
+#        print("Skaičius yra lygninis")
+#    else:
 #        print("Skaičius yra nelyginis")
 
 # class CC:
@@ -54,18 +53,22 @@
 
 class EE:
     a = int(input("Įvesti skaičių: "))
-    c = str(input("Spauskite:\n+ kad prideti skaičių.\n- kad atimti skaičių.\n/ kad dalinti skaičių.\n* kad dauginti skaičių."))
-    if(c=="+"):
+    c = str(
+        input(
+            "Spauskite:\n+ kad prideti skaičių.\n- kad atimti skaičių.\n/ kad dalinti skaičių.\n* kad dauginti skaičių."
+        )
+    )
+    if c == "+":
         b = int(input("Ivesti skaičių kurį pridėti: "))
-        print("Rezultatas: ", a+b)
-    if(c=="-"):
+        print("Rezultatas: ", a + b)
+    if c == "-":
         b = int(input("Ivesti skaičių kurį atimti: "))
-        print("Rezultatas: ", a-b)
-    if(c=="/"):
+        print("Rezultatas: ", a - b)
+    if c == "/":
         b = int(input("Ivesti skaičių iš kurio dalinti: "))
-        print("Rezultatas: ", a/b)
-    if(c=="*"):
+        print("Rezultatas: ", a / b)
+    if c == "*":
         b = int(input("Ivesti skaičių su kuriuo dauginti: "))
-        print("Rezultatas: ", a*b)
+        print("Rezultatas: ", a * b)
     else:
         print("Funkcija nepriimtina.")

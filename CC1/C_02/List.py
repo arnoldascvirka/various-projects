@@ -1,4 +1,4 @@
-# List1 = [] #Empty list 
+# List1 = [] #Empty list
 # print(List1)
 # ListINT = [1, 25, 50, 75, 100, 12, 2,5]
 # print(ListINT)
@@ -16,7 +16,7 @@
 # print(ListSTR[-1])
 # print(ListMIX[1:3])
 
-#ŽODYNAI dict
+# ŽODYNAI dict
 # d = {}
 # print(d)
 # d = {'Andrius': 28, 'Jonas': 25, 'Ugne': 20}
@@ -32,20 +32,20 @@
 
 sarasas_sk = [1, 25, 78, 89, 74, 14.2, 12]
 sarasas_str = ["0ruduo", "1ziema", "2pavasaris", "3vasara"]
-#perrenkam cikle kiekvieną sąrašo elementą
+# perrenkam cikle kiekvieną sąrašo elementą
 # ir atliekam su juo veiksmus
 for _ in sarasas_sk:
     print(_ * 1000)
 for eil in sarasas_str:
     print(eil)
-    print(eil[1:].upper(), "\n") #atskiriam naujos eil simboliu
-#sumuojam skaičius sąraše
+    print(eil[1:].upper(), "\n")  # atskiriam naujos eil simboliu
+# sumuojam skaičius sąraše
 suma = 0
 for sk in sarasas_sk:
     suma = suma + sk
     print(suma)
 print("*" * 30)
-#for ciklas su sąlygos panaudojimu
+# for ciklas su sąlygos panaudojimu
 # skaičius mažesnius už 50 atspausdinam padaugintus iš 100
 for sk in sarasas_sk:
     if sk < 50:
@@ -53,9 +53,9 @@ for sk in sarasas_sk:
     else:
         print(sk)
 print("ŽODYNAI", "*" * 20)
-#perrenkam žodynus cikle for
-d = {'Andrius': 28, 'Jonas': 25, 'Ugne': 20}
-#perrenkam raktus
+# perrenkam žodynus cikle for
+d = {"Andrius": 28, "Jonas": 25, "Ugne": 20}
+# perrenkam raktus
 for elem in d:
     print(elem)
 # perrenkam raktus ir pagal raktą reikšmę
@@ -90,9 +90,9 @@ print("programa išėjo iš ciklo while")
 # BREAK - ciklo nutraukimo statementas
 for nr in range(0, 10, 2):
     print(nr)
-    if nr == 6: #ciklo nutraukimo sąlyga
+    if nr == 6:  # ciklo nutraukimo sąlyga
         print("range pasiekė 6, nutraukiam ciklą pagal sąlygą")
-        break #nutraukia ciklo vykdymą
+        break  # nutraukia ciklo vykdymą
 # BREAK while cikle
 nr = 0
 while True:
