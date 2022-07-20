@@ -14,12 +14,12 @@ class Darbuotas:
         return self.__atlyginimas
 
 
-domas = Darbuotas("Domas", "Rutkauskas", 800)
+domas = Darbuotas("Domantas", "Rutkauskas", 800)
 print(domas.get_atlyginimas())
 
 
 domas.atlyginimas = 500
-print(domas.get_atlyginimas())
+print(domas.atlyginimas)
 
 
 print(domas.get_atlyginimas())
