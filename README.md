@@ -1,3 +1,3 @@
-This repo includes various kinds of learning projects I have done.
+Repo with current mini projects based on different python basics.
 
-It's just that.
+Python + SQLite + SQLAlchemy + DateTime + RE
