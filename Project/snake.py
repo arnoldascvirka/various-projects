@@ -8,10 +8,10 @@ red = (255, 0, 0)
 white = (255, 255, 255)
 black = (0, 0, 0)
 
-mif ="assets/map.png"
-bif ="assets/train.png"
+mif = "assets/map.png"
+bif = "assets/train.png"
 
-screen = pygame.display.set_mode((800, 800),0,32)
+screen = pygame.display.set_mode((800, 800), 0, 32)
 metro = pygame.image.load(mif).convert()
 train = pygame.image.load(bif).convert_alpha()
 pygame.display.set_caption("Metro 20X3")
@@ -48,14 +48,14 @@ while not game_over:
     screen.fill(white)
     screen.blit(metro, (0, 0))
     screen.blit(train, (x, y))
-    
+
     ######################################
     # Was supposed to be diagonal movement
     ######################################
     # milli = clock.tick()
     # seconds = milli / 10000
-    # dmx = seconds * speedx + (x1_change /100)
-    # dmy = seconds * speedy + (y1_change /100)
+    # dmx = seconds * speedx + (x1_change / 100)
+    # dmy = seconds * speedy + (y1_change / 100)
     # x += dmx
     # y += dmy
 
