@@ -6,13 +6,14 @@ from pygame.locals import *
 # Importing Modules
 from stationsTime import *
 from text import *
-from stationmethods import *
 
-
+# Initialize font
+pygame.font.init()
 # Gets mouse position every frame and displays the Station information on hover.
-
-
 def hover():
+    for r in rects:
+        if r.collidepoint(pygame.mouse.get_pos()):
+            clicked = 1
     if a44.collidepoint(pygame.mouse.get_pos()):
         message_display("Curator Station")
     elif a55.collidepoint(pygame.mouse.get_pos()):
@@ -73,60 +74,62 @@ def hover():
 
 def click():
     for event in pygame.event.get():
-        if event.type == pygame.MOUSEBUTTONDOWN:
+        if event.type == pygame.MOUSEBUTTONUP:
             if a44.collidepoint(pygame.mouse.get_pos()):
-                A44()
+                curator.print_station()
+                curator.print_population()
+                curator.print_zone()
             elif a55.collidepoint(pygame.mouse.get_pos()):
-                A55()
+                helios.print_station()
             elif a77.collidepoint(pygame.mouse.get_pos()):
-                A77()
+                ark.print_station()
             elif a99.collidepoint(pygame.mouse.get_pos()):
-                A99()
+                origin.print_station()
             elif b11.collidepoint(pygame.mouse.get_pos()):
-                B11()
+                spire.print_station()
             elif b78.collidepoint(pygame.mouse.get_pos()):
-                B78()
+                glory.print_station()
             elif b86.collidepoint(pygame.mouse.get_pos()):
-                B86()
+                ether.print_station()
             elif c11.collidepoint(pygame.mouse.get_pos()):
-                C11()
+                felicity.print_station()
             elif c91.collidepoint(pygame.mouse.get_pos()):
-                C91()
+                atlas.print_station()
             elif c38.collidepoint(pygame.mouse.get_pos()):
-                C38()
+                cendre.print_station()
             elif c25.collidepoint(pygame.mouse.get_pos()):
-                C25()
+                astreaus.print_station()
             elif d19.collidepoint(pygame.mouse.get_pos()):
-                D19()
+                dream.print_station()
             elif d34.collidepoint(pygame.mouse.get_pos()):
-                D34()
+                vestige.print_station()
             elif d67.collidepoint(pygame.mouse.get_pos()):
-                D67()
+                radiance.print_station()
             elif d89.collidepoint(pygame.mouse.get_pos()):
-                D89()
+                arcadis.print_station()
             elif e71.collidepoint(pygame.mouse.get_pos()):
-                E71()
+                legacy.print_station()
             elif e94.collidepoint(pygame.mouse.get_pos()):
-                E94()
+                orbital.print_station()
             elif e47.collidepoint(pygame.mouse.get_pos()):
-                E47()
+                serenity.print_station()
             elif e85.collidepoint(pygame.mouse.get_pos()):
-                E85()
+                atmos.print_station()
             elif f57.collidepoint(pygame.mouse.get_pos()):
-                F57()
+                escorte.print_station()
             elif f64.collidepoint(pygame.mouse.get_pos()):
-                F64()
+                azura.print_station()
             elif f97.collidepoint(pygame.mouse.get_pos()):
-                F97()
+                voyage.print_station()
             elif g58.collidepoint(pygame.mouse.get_pos()):
-                G58()
+                apollon.print_station()
             elif g39.collidepoint(pygame.mouse.get_pos()):
-                G39()
+                rogue.print_station()
             elif g12.collidepoint(pygame.mouse.get_pos()):
-                G12()
+                chronos.print_station()
             elif h22.collidepoint(pygame.mouse.get_pos()):
-                H22()
+                valhalla.print_station()
             elif h82.collidepoint(pygame.mouse.get_pos()):
-                H82()
+                prism.print_station()
             elif h02.collidepoint(pygame.mouse.get_pos()):
-                H02()
+                settler.print_station()

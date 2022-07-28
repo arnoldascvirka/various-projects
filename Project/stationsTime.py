@@ -1,3 +1,4 @@
+# Importing libraries
 import pygame
 import pygame.font
 from pygame.locals import *
@@ -10,7 +11,6 @@ gui_station = font.render("Station: ", True, black)
 screen = pygame.display.set_mode((800, 800), 0, 32)
 
 # Define Station locations
-
 a44 = pygame.draw.rect(screen, (255, 0, 0), (70, 90, 40, 40))
 a55 = pygame.draw.rect(screen, (255, 0, 0), (295, 80, 40, 40))
 a77 = pygame.draw.rect(screen, (255, 0, 0), (525, 80, 40, 40))
@@ -39,3 +39,35 @@ g12 = pygame.draw.rect(screen, (255, 0, 0), (635, 570, 40, 40))
 h22 = pygame.draw.rect(screen, (255, 0, 0), (60, 650, 60, 60))
 h82 = pygame.draw.rect(screen, (255, 0, 0), (525, 680, 40, 40))
 h02 = pygame.draw.rect(screen, (255, 0, 0), (695, 635, 40, 40))
+
+
+# list1 = [
+#     a44,
+#     a55,
+#     a77,
+#     a99,
+#     b11,
+#     b78,
+#     b86,
+#     c11,
+#     c91,
+#     c38,
+#     c25,
+#     d19,
+#     d34,
+#     d67,
+#     d89,
+#     e71,
+#     e94,
+#     e47,
+#     e85,
+#     f57,
+#     f64,
+#     f97,
+#     g58,
+#     g39,
+#     g12,
+#     h22,
+#     h82,
+#     h02,
+# ]

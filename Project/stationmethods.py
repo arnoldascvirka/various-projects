@@ -214,3 +214,6 @@ def H02():
     # H02
     message_display_xy("Welcome to Curator Station", 880, 260)
     message_display_xy(f"Population: {num6k_8k}", 880, 300)
+
+
+0

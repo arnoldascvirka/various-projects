@@ -6,12 +6,10 @@ from pygame.locals import *
 # Importing Modules
 from stationsTime import *
 from text import *
-from stationmethods import *
 
-
+# Initialize font
+pygame.font.init()
 # Gets mouse position every frame and displays the Station information on hover.
-
-
 def hover():
     if a44.collidepoint(pygame.mouse.get_pos()):
         message_display("Curator Station")
@@ -71,62 +69,68 @@ def hover():
         message_display("Settler Colony")
 
 
+def call_station(station):
+    station.print_station()
+    station.print_population()
+    station.print_zone()
+
+
 def click():
     for event in pygame.event.get():
-        if event.type == pygame.MOUSEBUTTONDOWN:
+        if event.type == pygame.MOUSEBUTTONUP:
             if a44.collidepoint(pygame.mouse.get_pos()):
-                A44()
+                call_station(curator)
             elif a55.collidepoint(pygame.mouse.get_pos()):
-                A55()
+                call_station(helios)
             elif a77.collidepoint(pygame.mouse.get_pos()):
-                A77()
+                call_station(ark)
             elif a99.collidepoint(pygame.mouse.get_pos()):
-                A99()
+                call_station(origin)
             elif b11.collidepoint(pygame.mouse.get_pos()):
-                B11()
+                call_station(spire)
             elif b78.collidepoint(pygame.mouse.get_pos()):
-                B78()
+                call_station(glory)
             elif b86.collidepoint(pygame.mouse.get_pos()):
-                B86()
+                call_station(ether)
             elif c11.collidepoint(pygame.mouse.get_pos()):
-                C11()
+                call_station(felicity)
             elif c91.collidepoint(pygame.mouse.get_pos()):
-                C91()
+                call_station(atlas)
             elif c38.collidepoint(pygame.mouse.get_pos()):
-                C38()
+                call_station(cendre)
             elif c25.collidepoint(pygame.mouse.get_pos()):
-                C25()
+                call_station(astreaus)
             elif d19.collidepoint(pygame.mouse.get_pos()):
-                D19()
+                call_station(dream)
             elif d34.collidepoint(pygame.mouse.get_pos()):
-                D34()
+                call_station(vestige)
             elif d67.collidepoint(pygame.mouse.get_pos()):
-                D67()
+                call_station(radiance)
             elif d89.collidepoint(pygame.mouse.get_pos()):
-                D89()
+                call_station(arcadis)
             elif e71.collidepoint(pygame.mouse.get_pos()):
-                E71()
+                call_station(legacy)
             elif e94.collidepoint(pygame.mouse.get_pos()):
-                E94()
+                call_station(orbital)
             elif e47.collidepoint(pygame.mouse.get_pos()):
-                E47()
+                call_station(serenity)
             elif e85.collidepoint(pygame.mouse.get_pos()):
-                E85()
+                call_station(atmos)
             elif f57.collidepoint(pygame.mouse.get_pos()):
-                F57()
+                call_station(escorte)
             elif f64.collidepoint(pygame.mouse.get_pos()):
-                F64()
+                call_station(azura)
             elif f97.collidepoint(pygame.mouse.get_pos()):
-                F97()
+                call_station(voyage)
             elif g58.collidepoint(pygame.mouse.get_pos()):
-                G58()
+                call_station(apollon)
             elif g39.collidepoint(pygame.mouse.get_pos()):
-                G39()
+                call_station(rogue)
             elif g12.collidepoint(pygame.mouse.get_pos()):
-                G12()
+                call_station(chronos)
             elif h22.collidepoint(pygame.mouse.get_pos()):
-                H22()
+                call_station(valhalla)
             elif h82.collidepoint(pygame.mouse.get_pos()):
-                H82()
+                call_station(prism)
             elif h02.collidepoint(pygame.mouse.get_pos()):
-                H02()
+                call_station(settler)
