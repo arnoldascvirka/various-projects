@@ -1,0 +1,1009 @@
+Brand,Model,Uniques,Mean
+Aixam,500,1,1500
+Aixam,City,2,4375
+Aixam,Crossover,1,4700
+Aixam,Kitas,1,1850
+Alfa,Romeo 147,3,1549
+Alfa,Romeo 156,5,740
+Alfa,Romeo 159,10,2486
+Alfa,Romeo Crosswagon Q4,1,2800
+Alfa,Romeo GT,3,1556
+Alfa,Romeo GTV,2,1825
+Asia,Rocsta,1,3800
+Audi,100,9,662
+Audi,100 C3,6,1350
+Audi,100 C4,3,2060
+Audi,200,1,1500
+Audi,80,19,736
+Audi,80 B2,4,1485
+Audi,80 B3,7,715
+Audi,80 B4,9,1015
+Audi,A1,1,6500
+Audi,A2,6,1455
+Audi,A3,51,2222
+Audi,"A3 2,0 TDI",1,3250
+Audi,A3 8L,10,1051
+Audi,A3 8P,20,3494
+Audi,A4,76,2589
+Audi,A4 2.0 TDI 136 HK AVANT,1,4650
+Audi,A4 Allroad,1,9000
+Audi,A4 B5,21,909
+Audi,A4 B6,23,1514
+Audi,A4 B7,25,3026
+Audi,A4 B8,15,6091
+Audi,A5,6,6732
+Audi,A6,91,2926
+Audi,A6 Allroad,8,4194
+Audi,A6 C4,11,1817
+Audi,A6 C5,28,1444
+Audi,A6 C6,37,3878
+Audi,A6 C7,3,8750
+Audi,A6 QUATTRO,1,2750
+Audi,A8,15,3752
+Audi,A8 D2,3,2300
+Audi,A8 D3,5,5733
+Audi,Cabriolet,1,3210
+Audi,Coupe,1,2500
+Audi,Q5,1,10000
+Audi,Q7,5,7583
+Audi,S4 B5,1,9999
+Audi,S4 B8,1,16000
+Audi,S6,1,5700
+Audi,TT,3,3323
+Audi,TT 8N,1,1800
+Austin,Mini,1,6200
+BMW,116,8,3422
+BMW,116 E87,9,3025
+BMW,118,12,3638
+BMW,118 E87,5,3310
+BMW,120,5,5298
+BMW,120 E87,5,2808
+BMW,316,7,2099
+BMW,316 E30,3,3999
+BMW,316 E36,3,1549
+BMW,316 E46,6,1066
+BMW,318,16,2650
+BMW,318 E30,1,6000
+BMW,318 E36,5,1336
+BMW,318 E46,6,1879
+BMW,318 E90,3,4666
+BMW,320,46,3212
+BMW,320 E30,1,1850
+BMW,320 E36,4,2839
+BMW,320 E46,24,1728
+BMW,320 E90,20,4040
+BMW,320 F30,3,11693
+BMW,323,1,800
+BMW,323 E36,2,2499
+BMW,323 E46,1,2700
+BMW,324 E30,1,1800
+BMW,325,10,3644
+BMW,325 E36,1,2600
+BMW,325 E46,2,2325
+BMW,325 E90,6,5564
+BMW,328,2,3625
+BMW,328 E46,2,3750
+BMW,328 E90,3,5699
+BMW,330,11,4013
+BMW,330 E46,10,2654
+BMW,330 E90,7,4835
+BMW,335,1,5000
+BMW,335 E90,1,4999
+BMW,428 Gran Coupe,1,19900
+BMW,520,21,3309
+BMW,520 E34,1,1750
+BMW,520 E39,1,1730
+BMW,520 E60,2,4375
+BMW,520 F10,1,10990
+BMW,523,4,3437
+BMW,523 E39,1,1300
+BMW,523 E60,1,2650
+BMW,524 E34,1,800
+BMW,525,42,2743
+BMW,525 E28,1,1550
+BMW,525 E34,5,2529
+BMW,525 E39,13,1847
+BMW,525 E60,11,3634
+BMW,528,4,2275
+BMW,528 E39,1,1800
+BMW,528 E60,1,5000
+BMW,530,34,3439
+BMW,530 530 D AUT.,1,4750
+BMW,530 E39,16,1516
+BMW,530 E60,20,3833
+BMW,530 F10,1,8800
+BMW,535,4,3187
+BMW,535 E60,3,5300
+BMW,535 F10,1,16500
+BMW,545,1,3499
+BMW,635,1,5899
+BMW,645,1,9000
+BMW,650 E63/E64,1,10500
+BMW,725,1,1300
+BMW,728,1,2299
+BMW,728 E38,1,2500
+BMW,730,10,6594
+BMW,730 E65/66,3,4800
+BMW,732,1,3750
+BMW,735,1,2550
+BMW,740,3,3083
+BMW,740 E32,1,5399
+BMW,740 E38,1,4400
+BMW,745,3,3933
+BMW,745 E65/66,1,4500
+BMW,X3,13,4509
+BMW,"X3 2,5 I AUT.",1,3450
+BMW,X3 E83,7,4492
+BMW,X5,19,4272
+BMW,X5 E53,9,4269
+BMW,X6,2,15150
+Cadillac,BLS,1,2899
+Cadillac,CTS,1,27590
+Cadillac,Deville,1,2440
+Cadillac,SRX,4,4049
+Chevrolet,Aveo,6,3649
+Chevrolet,Blazer,1,1999
+Chevrolet,Camaro,2,3500
+Chevrolet,Captiva,10,4291
+Chevrolet,Cruze,5,5513
+Chevrolet,Epica,4,1992
+Chevrolet,Equinox,1,2499
+Chevrolet,HHR,1,2699
+Chevrolet,Impala,1,3000
+Chevrolet,Kalos,1,1200
+Chevrolet,Lacetti,1,1299
+Chevrolet,Nubira,2,1475
+Chevrolet,Orlando,2,5450
+Chevrolet,Rezzo,1,1900
+Chevrolet,Spark,1,2199
+Chevrolet,Trailblazer,1,3000
+Chevrolet,Trans Sport,1,2150
+Chevrolet,Trax,2,8125
+Chrysler,200,1,6800
+Chrysler,300C,8,3810
+Chrysler,300M,1,890
+Chrysler,Crossfire,1,4499
+Chrysler,Grand Voyager,7,2199
+Chrysler,Grand Voyager II,1,1550
+Chrysler,Grand Voyager III,4,1820
+Chrysler,Grand Voyager IV,1,4800
+Chrysler,PT Cruiser,12,1096
+Chrysler,Pacifica,1,899
+Chrysler,Sebring,6,2473
+Chrysler,Stratus,2,600
+Chrysler,Town & Country,2,745
+Chrysler,Voyager,14,1500
+Chrysler,Voyager III,4,1829
+Citroen,Berlingo,10,1956
+Citroen,Berlingo I,2,1625
+Citroen,Berlingo II,1,2100
+Citroen,C-Crosser,3,5540
+Citroen,C1,2,1825
+Citroen,C1 I,1,2295
+Citroen,C2,2,899
+Citroen,C25,1,2450
+Citroen,C3,12,1672
+Citroen,C3 I,5,1516
+Citroen,C3 Pluriel,3,1296
+Citroen,C4,21,2093
+Citroen,C4 Aircross,1,6900
+Citroen,C4 Grand Picasso,3,2833
+Citroen,C4 Grand Picasso I,1,2530
+Citroen,C4 I,2,1497
+Citroen,C4 II,1,4500
+Citroen,C4 Picasso,4,4137
+Citroen,C5,26,2611
+Citroen,C5 I,4,812
+Citroen,C5 II,7,1747
+Citroen,C6,4,2787
+Citroen,C8,8,2053
+Citroen,DS3,1,5650
+Citroen,DS4,1,5990
+Citroen,Evasion,1,1100
+Citroen,Jumper,7,3987
+Citroen,"Jumper 2,2 HDI",1,1450
+Citroen,Jumper I,3,2316
+Citroen,Jumper II,1,2100
+Citroen,Jumpy,4,4184
+Citroen,Nemo,2,3699
+Citroen,Relay,2,3400
+Citroen,Xantia,1,750
+Citroen,Xantia I,1,430
+Citroen,Xsara,4,627
+Citroen,Xsara Picasso,13,944
+Citroen,ZX,1,1200
+Dacia,Duster,4,4651
+Dacia,Lodgy,1,3399
+Dacia,Logan,4,1749
+Dacia,Logan 1.5 dCi 90,1,4750
+Dacia,Logan I (2004-2012),1,1300
+Dacia,Sandero,5,3339
+Daewoo,Evanda,1,700
+Daewoo,Lanos,1,550
+Daewoo,Matiz,1,1150
+Daihatsu,Cuore,2,1025
+Daihatsu,Rocky,1,2650
+Daihatsu,Sirion,1,500
+Daihatsu,Terios,1,1500
+Dodge,Caliber,6,2274
+Dodge,Dart,1,6000
+Dodge,Journey,2,5825
+Dodge,Nitro,2,4149
+Fiat,500,5,4247
+Fiat,Bravo,3,2733
+Fiat,Cinquecento,1,799
+Fiat,Croma,1,3200
+Fiat,Croma II,1,1850
+Fiat,Doblo,6,2241
+Fiat,"Doblo 1,3 MJT",1,1550
+Fiat,Ducato,12,2726
+Fiat,Ducato II,6,2230
+Fiat,Ducato III,2,6449
+Fiat,Grande Punto,1,500
+Fiat,Idea,2,1170
+Fiat,Marea,2,575
+Fiat,Palio,1,700
+Fiat,Panda,1,650
+Fiat,Panda II,1,600
+Fiat,Punto,5,917
+Fiat,Qubo,1,1460
+Fiat,Scudo,1,1999
+Fiat,Sedici,1,3600
+Fiat,Stilo,4,787
+Fiat,Ulysse,3,1166
+Ford,C-MAX,9,3189
+Ford,C-MAX I,1,1600
+Ford,Connect Tourneo,3,1800
+Ford,EcoSport,1,4000
+Ford,Econoline,1,1800
+Ford,Escape,3,3880
+Ford,Escort,1,1400
+Ford,Escort Mk7,1,430
+Ford,Excursion,1,5900
+Ford,Explorer,2,2050
+Ford,F250,2,10700
+Ford,Fiesta,11,2353
+Ford,Fiesta Mk6,2,1125
+Ford,Fiesta Mk7,1,3350
+Ford,Focus,45,2189
+Ford,Focus C-Max,5,1209
+Ford,Focus Mk1,9,826
+Ford,Focus Mk2,13,2233
+Ford,Focus Mk3,2,5275
+Ford,Fusion,2,3333
+Ford,Galaxy,27,1619
+Ford,Galaxy Mk1,4,899
+Ford,Galaxy Mk2,4,1599
+Ford,Galaxy Mk3,2,3975
+Ford,Granada,1,1350
+Ford,Grand C-MAX,1,6350
+Ford,Kuga,1,6499
+Ford,Kuga I,1,6600
+Ford,Maverick,5,2319
+Ford,Mondeo,37,2490
+Ford,Mondeo Mk1,1,500
+Ford,Mondeo Mk3,7,995
+Ford,Mondeo Mk4,8,2840
+Ford,Mustang,2,6775
+Ford,Probe,1,850
+Ford,Ranger,2,8050
+Ford,S-Max,17,4441
+Ford,"S-Max 2,0 TDCI",1,3350
+Ford,Scorpio,2,1674
+Ford,Sierra,2,1055
+Ford,Sierra Mk2,1,550
+Ford,Streetka,3,1966
+Ford,Tourneo,1,2999
+Ford,Tourneo Connect,1,3300
+Ford,Transit,23,3039
+Ford,Transit 2.2 TDCi (100 HK),1,2350
+Ford,Transit 2.2 TDCi (100 HK) Ko,2,3883
+Ford,"Transit 350M 2,4 TDCI",1,2950
+Ford,Transit Connect,1,650
+Ford,Transit Connect 1.5 TDCi (10,1,5450
+Ford,Transit Courier,1,4990
+Ford,Transit Custom 2.0 TDCi (130,1,5950
+Ford,Transit V (2000-2006),2,1225
+Ford,Transit VI,8,3962
+Ford,Transit VII,1,8950
+GAZ,21,2,1675
+GAZ,24,2,3175
+GAZ,Volga,1,1200
+Honda,Accord,21,2072
+Honda,"Accord 2,2D LIFESTYLE AUT.",1,4950
+Honda,Accord VI,1,1200
+Honda,Accord VII,6,2356
+Honda,Accord VIII,1,5950
+Honda,CR-V,18,3976
+Honda,CR-V I,3,966
+Honda,CR-V II,1,2350
+Honda,CRX,3,4366
+Honda,Civic,32,2469
+Honda,Civic 1.8 i-VTEC,1,4450
+Honda,Civic IX,1,6600
+Honda,Civic V,1,1500
+Honda,Civic VI,1,1100
+Honda,Civic VII,3,833
+Honda,Civic VIII,5,2492
+Honda,FR-V,13,2696
+Honda,"FR-V 2,2 D EXECUTIVE",1,1950
+Honda,Fit,1,3750
+Honda,HR-V,1,1199
+Honda,Jazz,10,4904
+Honda,"Jazz 1,4 EXCLUSIVE",1,3450
+Honda,Jazz II,6,1429
+Honda,Legend,5,1605
+Honda,Prelude,5,2369
+Honda,Shuttle,1,550
+Honda,Stream,1,749
+Hyundai,Accent,2,1349
+Hyundai,Coupe,1,599
+Hyundai,Elantra,1,650
+Hyundai,Galloper,1,2350
+Hyundai,Getz,6,1345
+Hyundai,Grand Santa Fe,1,2250
+Hyundai,Grand Santa Fe SDK:HCNHHAKH,1,2250
+Hyundai,H-1,2,1550
+Hyundai,Matrix,1,1450
+Hyundai,Pony,1,290
+Hyundai,Santa Fe,15,3873
+Hyundai,Santa Fe I,3,2333
+Hyundai,Santa Fe II,4,5425
+Hyundai,Sonata,5,1329
+Hyundai,Terracan,4,2900
+Hyundai,Trajet,2,1044
+Hyundai,Tucson,10,5208
+Hyundai,XG 350,1,850
+Hyundai,i10 I,1,1999
+Hyundai,i20,4,4849
+Hyundai,i20 1.1 CRDi 5 dørs MPV,1,3150
+Hyundai,i30,4,2639
+Hyundai,"i30 1,6 CRDI 110",1,3650
+Hyundai,i30 I,1,1500
+Hyundai,i30 II,1,5950
+Hyundai,i40,1,2700
+Infiniti,FX35,2,2599
+Isuzu,Trooper,1,700
+Iveco,35C15,1,2499
+Iveco,35S12,1,1300
+Iveco,35S14,2,2425
+Iveco,50C18,1,3500
+Iveco,65C15,1,3150
+Iveco,Daily,3,4399
+Iveco,Daily 35,1,5200
+Iveco,Daily 35S12.Thermo king.,1,2950
+Iveco,Daily 35S14,1,2650
+Jaguar,S-Type,1,999
+Jaguar,Sovereign,1,3900
+Jaguar,X-Type,3,2763
+Jaguar,XF,1,6500
+Jaguar,XJ,1,5900
+Jaguar,XJ X308,1,2000
+Jaguar,XJ X350,1,6100
+Jeep,Cherokee,3,3483
+Jeep,Commander,1,6000
+Jeep,Grand Cherokee,11,4066
+Jeep,Grand Cherokee II,2,3100
+Jeep,Grand Cherokee III,1,6800
+Jeep,Patriot,1,3750
+Kia,Carens,4,1674
+Kia,Carens II,1,1000
+Kia,Carens III,1,600
+Kia,Carnival,4,2172
+Kia,Cee'd,11,6651
+Kia,Cee'd I,2,2225
+Kia,Opirus,1,1400
+Kia,Optima,2,4824
+Kia,Picanto,2,1189
+Kia,Retona,1,6500
+Kia,Rio,7,4004
+Kia,Rio II,2,2575
+Kia,Sorento,22,2917
+Kia,Sorento I,5,4290
+Kia,Soul,1,6350
+Kia,Sportage,2,2599
+Kia,Sportage II,2,3350
+Kia,Venga,1,2499
+Lada,1200,1,4400
+Lada,2101,4,1087
+Lada,21011,1,1850
+Lada,21013,1,2400
+Lada,2103,1,900
+Lada,2104,1,2600
+Lada,2106,1,1200
+Lada,2109,1,1150
+Lada,Niva,3,1033
+Lancia,Lybra,2,925
+Lancia,Musa,1,300
+Lancia,Phedra,1,1150
+Land,Rover Discovery,4,3687
+Land,Rover Freelander,2,3075
+Land,Rover Freelander I,2,775
+Land,Rover Freelander II,1,3500
+Land,Rover Range Rover,3,3350
+Land,Rover Range Rover II,1,2050
+Lexus,GS 300,3,4824
+Lexus,IS 200,3,1999
+Lexus,IS 220,6,4077
+Lexus,IS 250,2,5249
+Lexus,IS 300,1,1100
+Lexus,LS 460,1,4700
+Lexus,RX 300,4,4249
+Lexus,RX 400h,2,5979
+Lincoln,Aviator,1,3999
+Lincoln,Continental,1,5000
+Lincoln,Town Car,1,1850
+MG,ZR,1,6500
+MINI,Clubman,4,4859
+MINI,Cooper,6,2192
+MINI,ONE,10,2236
+Mazda,2,5,1339
+Mazda,2 II,1,4290
+Mazda,3,18,2501
+Mazda,3 I,6,1571
+Mazda,3 II,1,5400
+Mazda,323 IV,1,350
+Mazda,323 VI,1,200
+Mazda,323F,3,426
+Mazda,323F I,2,974
+Mazda,323F III,1,790
+Mazda,5,9,1925
+Mazda,5 I,6,2433
+Mazda,6,27,2546
+Mazda,6 I,4,1487
+Mazda,6 II,2,3175
+Mazda,6 III,1,6000
+Mazda,626,4,442
+Mazda,626 V,1,530
+Mazda,929,1,1999
+Mazda,CX-5,2,17495
+Mazda,CX-7,10,4164
+Mazda,Demio,1,399
+Mazda,MPV,1,370
+Mazda,MX-3,1,1000
+Mazda,MX-5,2,3600
+Mazda,Premacy,3,369
+Mazda,RX-8,1,2450
+Mazda,Serija B,1,4500
+Mazda,Serija E,1,2350
+Mazda,Xedos 9,2,2449
+Mercedes-Benz,100,1,650
+Mercedes-Benz,110,1,1900
+Mercedes-Benz,180,1,2500
+Mercedes-Benz,190,4,3450
+Mercedes-Benz,200,5,3277
+Mercedes-Benz,207,1,2650
+Mercedes-Benz,208,1,3000
+Mercedes-Benz,211,1,1880
+Mercedes-Benz,212,1,3200
+Mercedes-Benz,220,2,1224
+Mercedes-Benz,230,2,2499
+Mercedes-Benz,250,2,1160
+Mercedes-Benz,260,2,2775
+Mercedes-Benz,300,2,3500
+Mercedes-Benz,307,2,1075
+Mercedes-Benz,320,4,3087
+Mercedes-Benz,350,1,4000
+Mercedes-Benz,450,1,42500
+Mercedes-Benz,A 140,2,624
+Mercedes-Benz,A 140 W168,2,895
+Mercedes-Benz,A 150,3,1329
+Mercedes-Benz,A 160,5,1061
+Mercedes-Benz,A 160 W168,1,600
+Mercedes-Benz,A 170,4,880
+Mercedes-Benz,A 170 W169,1,1500
+Mercedes-Benz,A 180,3,2149
+Mercedes-Benz,A 190,1,1500
+Mercedes-Benz,B 170,3,2782
+Mercedes-Benz,B 180,4,2587
+Mercedes-Benz,B 180 W245,3,3416
+Mercedes-Benz,B 180 W246,1,6500
+Mercedes-Benz,B 200,1,2450
+Mercedes-Benz,B 200 W245,2,3950
+Mercedes-Benz,C 180,9,2664
+Mercedes-Benz,C 180 W203,4,1287
+Mercedes-Benz,C 180 W204,1,4500
+Mercedes-Benz,C 200,9,3414
+Mercedes-Benz,C 200 W203,4,2075
+Mercedes-Benz,C 200 W204,1,5100
+Mercedes-Benz,C 220,14,2869
+Mercedes-Benz,C 220 W203,7,2097
+Mercedes-Benz,C 220 W204,3,4666
+Mercedes-Benz,C 270,5,1929
+Mercedes-Benz,C 270 W203,2,3300
+Mercedes-Benz,C 280,1,6100
+Mercedes-Benz,C 300,1,6700
+Mercedes-Benz,C 320,3,3316
+Mercedes-Benz,C 320 W203,4,3670
+Mercedes-Benz,C 320 W204,1,6000
+Mercedes-Benz,CE 300,1,5900
+Mercedes-Benz,CLC 180,1,5000
+Mercedes-Benz,CLC 220,1,5400
+Mercedes-Benz,CLK 200,2,3975
+Mercedes-Benz,CLK 200 W208,1,1849
+Mercedes-Benz,CLK 230 W208,2,1625
+Mercedes-Benz,CLK 240 W209,1,2400
+Mercedes-Benz,CLK 270,3,2583
+Mercedes-Benz,CLK 270 W209,1,3700
+Mercedes-Benz,CLK 320,2,3999
+Mercedes-Benz,CLK 320 W208,2,1500
+Mercedes-Benz,CLK 320 W209,1,1500
+Mercedes-Benz,CLK 500 W209,1,6500
+Mercedes-Benz,CLS 300,1,22000
+Mercedes-Benz,CLS 320,5,5900
+Mercedes-Benz,CLS 350,1,3200
+Mercedes-Benz,E 124,1,3999
+Mercedes-Benz,E 200,3,2859
+Mercedes-Benz,E 200 W211,2,2500
+Mercedes-Benz,E 220,12,5581
+Mercedes-Benz,E 220 W211,4,2660
+Mercedes-Benz,E 230 W124,1,2300
+Mercedes-Benz,E 250,1,1550
+Mercedes-Benz,E 250 W124,1,3000
+Mercedes-Benz,E 250 W210,1,1200
+Mercedes-Benz,E 270,12,3512
+Mercedes-Benz,E 270 W211,4,3410
+Mercedes-Benz,E 280,5,3419
+Mercedes-Benz,E 280 W211,4,3425
+Mercedes-Benz,E 290,2,2125
+Mercedes-Benz,E 300 W210,1,2750
+Mercedes-Benz,E 320,7,3256
+Mercedes-Benz,E 320 W124,1,6500
+Mercedes-Benz,E 320 W210,1,2000
+Mercedes-Benz,E 320 W211,5,3710
+Mercedes-Benz,G 400,1,26500
+Mercedes-Benz,Kitas,2,2300
+Mercedes-Benz,ML 230,1,1099
+Mercedes-Benz,ML 270,12,2610
+Mercedes-Benz,ML 270 W163,3,3083
+Mercedes-Benz,ML 280,1,5800
+Mercedes-Benz,ML 280 W164,2,5700
+Mercedes-Benz,ML 320,7,3247
+Mercedes-Benz,ML 320 W163,3,1416
+Mercedes-Benz,ML 320 W164,1,8000
+Mercedes-Benz,ML 400,1,2599
+Mercedes-Benz,ML 400 W163,1,4000
+Mercedes-Benz,ML 430,1,1499
+Mercedes-Benz,ML 500,1,6000
+Mercedes-Benz,ML 500 W164,1,6800
+Mercedes-Benz,R 280,1,6800
+Mercedes-Benz,R 320,2,6250
+Mercedes-Benz,S 280,1,2650
+Mercedes-Benz,S 280 W126,1,5450
+Mercedes-Benz,S 300,2,4175
+Mercedes-Benz,S 320,6,3599
+Mercedes-Benz,S 320 W140,1,830
+Mercedes-Benz,S 320 W220,3,2400
+Mercedes-Benz,S 320 W221,1,8750
+Mercedes-Benz,S 350,3,2387
+Mercedes-Benz,S 500,1,3200
+Mercedes-Benz,S 500 W126,2,5625
+Mercedes-Benz,S 550,2,8999
+Mercedes-Benz,SLK 200,2,4200
+Mercedes-Benz,SLK 200 R170,1,2500
+Mercedes-Benz,SLK 230,1,2400
+Mercedes-Benz,Sprinter,10,3482
+Mercedes-Benz,Sprinter I,2,3145
+Mercedes-Benz,Sprinter II,2,3624
+Mercedes-Benz,Sprinter III,2,6995
+Mercedes-Benz,V 230,2,2524
+Mercedes-Benz,Vaneo,9,1002
+Mercedes-Benz,Viano,2,4800
+Mercedes-Benz,Vito,11,3103
+Mercedes-Benz,Vito W639,2,5000
+Mercedes-Benz,W123,3,4900
+Mercedes-Benz,W124,4,2747
+Microcar,Due,2,5100
+Microcar,Virgo,1,1950
+Mitsubishi,Carisma,2,849
+Mitsubishi,Carisma I,1,350
+Mitsubishi,Colt,10,1381
+Mitsubishi,Colt Z30,2,1420
+Mitsubishi,Eclipse I,1,1550
+Mitsubishi,Galant VIII,1,830
+Mitsubishi,Grandis,9,2382
+Mitsubishi,Kitas,2,2425
+Mitsubishi,L200,1,3500
+Mitsubishi,L400,1,4200
+Mitsubishi,Lancer,3,4333
+Mitsubishi,Outlander,13,3611
+Mitsubishi,Outlander I,1,5900
+Mitsubishi,Outlander II,4,3918
+Mitsubishi,Pajero,8,4318
+Mitsubishi,Pajero I,1,3449
+Mitsubishi,Pajero II,1,2500
+Mitsubishi,Pajero Pinin,1,3250
+Mitsubishi,Pajero Sport,3,3333
+Mitsubishi,Sigma,1,2500
+Mitsubishi,Space Star,10,643
+Mitsubishi,Space Wagon,1,2350
+Moskvich,2140,1,250
+Moskvich,2141,1,300
+Moskvich,401,1,700
+Moskvich,408,1,6500
+Moskvich,412,1,320
+Nissan,100 NX,1,1100
+Nissan,Almera,6,1121
+Nissan,Almera N16,2,1690
+Nissan,Almera Tino,10,741
+Nissan,Interstar,1,1650
+Nissan,Juke,5,5908
+Nissan,King Cab,1,2500
+Nissan,Micra,13,1811
+Nissan,Micra K12,2,1770
+Nissan,Micra K13,1,350
+Nissan,Murano,6,3324
+Nissan,Navara,2,6000
+Nissan,Note,4,2012
+Nissan,Note 1.2 5 M/T,1,5550
+Nissan,Note I,1,2685
+Nissan,Pathfinder,6,5116
+Nissan,Patrol,4,3775
+Nissan,Patrol GR I Y60,2,5650
+Nissan,Patrol GR II Y61,1,6500
+Nissan,Primastar,3,4833
+Nissan,Primera,11,1164
+Nissan,Primera P11,1,599
+Nissan,Primera P12,1,500
+Nissan,Qashqai,7,6385
+Nissan,"Qashqai 1,5 DCI",1,5950
+Nissan,Qashqai I,3,4833
+Nissan,Serena,1,2530
+Nissan,Terrano,4,2557
+Nissan,Terrano I,2,2399
+Nissan,Terrano II,2,1575
+Nissan,Tiida,1,2699
+Nissan,Trade,1,1499
+Nissan,Versa,1,2000
+Nissan,X-Trail,17,5053
+Nissan,X-Trail I,8,2512
+Nissan,X-Trail II,2,5749
+Opel,Agila,2,2499
+Opel,Antara,13,5136
+Opel,Astra,70,1891
+Opel,Astra I,3,693
+Opel,Astra II,14,1012
+Opel,Astra III,12,2295
+Opel,Astra IV,2,4574
+Opel,Combo,5,1617
+Opel,"Combo 1,3CDTi 95HK MPV",1,3950
+Opel,Combo C,2,2372
+Opel,Corsa,15,1985
+Opel,Corsa C,3,933
+Opel,Corsa D,4,1824
+Opel,Frontera,12,2057
+Opel,Frontera B,1,2100
+Opel,Insignia,22,4976
+Opel,Kadett,1,400
+Opel,Kadett D,1,1200
+Opel,Kadett E,2,365
+Opel,Meriva,24,2086
+Opel,Meriva I,9,1710
+Opel,Meriva II,2,4800
+Opel,"Mokka X 1,6 CDTi 136HK MPV",1,6750
+Opel,Movano,3,1583
+Opel,Movano II,2,3149
+Opel,Omega,8,830
+Opel,Omega B,1,550
+Opel,Omega B FL,3,1133
+Opel,Signum,21,1243
+Opel,Tigra,3,1964
+Opel,Tigra II,1,1899
+Opel,Vectra,29,1281
+Opel,Vectra B,4,537
+Opel,Vectra C,14,1531
+Opel,Vivaro,10,4468
+Opel,Vivaro I,4,3199
+Opel,Zafira,57,1734
+Opel,Zafira A,14,1076
+Opel,Zafira B,7,2956
+Opel,Zafira Tourer,1,9000
+Peugeot,107,1,1450
+Peugeot,2008,1,7990
+Peugeot,206,14,744
+Peugeot,206 CC,4,1487
+Peugeot,206+,3,2650
+Peugeot,207,15,1839
+Peugeot,207 CC,3,2816
+Peugeot,208,1,3200
+Peugeot,3008,7,5918
+Peugeot,306,2,500
+Peugeot,307,21,1071
+Peugeot,307 CC,2,2375
+Peugeot,307 I,11,995
+Peugeot,307 II,3,1978
+Peugeot,308,15,3300
+Peugeot,309,1,900
+Peugeot,4007,2,4482
+Peugeot,405,1,150
+Peugeot,406,5,639
+Peugeot,407,24,1628
+Peugeot,5008,5,4777
+Peugeot,504,1,1230
+Peugeot,508,7,4985
+Peugeot,604,1,3000
+Peugeot,607,7,1053
+Peugeot,806,4,762
+Peugeot,807,6,778
+Peugeot,Bipper,2,2224
+Peugeot,Boxer,7,4758
+Peugeot,"Boxer 2,8 HDI",1,950
+Peugeot,Boxer 2.2 HDi 110 330 L2H1,1,5450
+Peugeot,Expert,2,1025
+Peugeot,Kitas,2,1735
+Peugeot,Partner,6,1899
+Peugeot,Partner II (2008- ),1,2950
+Pontiac,Aztek,1,1250
+Pontiac,Grand-Am,1,999
+Pontiac,Trans Am,1,18000
+Pontiac,Trans Sport,3,1293
+Porsche,Cayenne,2,6850
+Porsche,Cayenne I,1,3900
+Renault,11,1,4000
+Renault,19 II,4,1570
+Renault,9,1,1000
+Renault,Clio,14,2318
+Renault,Clio I,1,500
+Renault,Clio II,1,950
+Renault,Clio III,3,2516
+Renault,Clio IV,1,3000
+Renault,Clio dCi 75 Sport Tourer,1,3750
+Renault,Espace,8,1202
+Renault,Espace II,1,650
+Renault,Espace III,1,730
+Renault,Espace IV,3,1733
+Renault,Fluence,2,4049
+Renault,Grand Espace,4,1862
+Renault,Grand Scenic,3,2559
+Renault,"Grand Scenic 1,6 DCI ESM 130",1,3650
+Renault,Kangoo,6,2708
+Renault,Kangoo I,2,1750
+Renault,Kangoo II,2,1065
+Renault,Kangoo III,1,3800
+Renault,Koleos,2,4925
+Renault,Laguna,10,1776
+Renault,Laguna I,2,675
+Renault,Laguna II,5,912
+Renault,Laguna II FL,2,2025
+Renault,Laguna III,3,2250
+Renault,Mascott,1,3600
+Renault,Master,12,3382
+Renault,"Master 2,5 DCI 150",1,4650
+Renault,Master II,3,2611
+Renault,Master III,3,3850
+Renault,Megane,22,2188
+Renault,Megane I,5,850
+Renault,Megane II,4,1370
+Renault,Megane III,4,3537
+Renault,Modus,3,1796
+Renault,Scenic,18,832
+Renault,Scenic I,5,497
+Renault,Scenic II,4,1410
+Renault,Scenic III,1,4750
+Renault,Scenic RX4,1,400
+Renault,Thalia,4,1074
+Renault,Trafic,18,3661
+Renault,Twingo,1,1550
+Renault,Twingo I,1,690
+Renault,Twingo II,1,1550
+Renault,Vel Satis,3,1193
+Rolls-Royce,Silver Shadow,1,33333
+Rover,416,1,430
+Rover,75,1,1200
+Rover,825,1,1500
+SEAT,Altea,1,2199
+SEAT,Exeo,2,3249
+SEAT,Ibiza,2,2949
+SEAT,Leon,4,2324
+SEAT,Mii,1,2499
+SEAT,Toledo,3,1665
+Saab,9-3,17,1397
+Saab,9-3 I,1,600
+Saab,9-3 II,11,1880
+Saab,9-5,15,1330
+Saab,900,2,395
+Saab,9000,1,1550
+Seat,Alhambra,15,1876
+Seat,Alhambra I,4,1208
+Seat,Altea,9,2226
+Seat,Altea XL,11,3153
+Seat,Cordoba,1,350
+Seat,Exeo,1,4500
+Seat,Ibiza,8,2333
+Seat,Ibiza II,1,499
+Seat,Ibiza III,4,1862
+Seat,Ibiza IV,2,3300
+Seat,Leon,6,2991
+Seat,Leon I,7,1981
+Seat,Leon II,3,2100
+Seat,Toledo,8,1727
+Seat,Toledo II,2,980
+Seat,Toledo III,1,1350
+Skoda,Fabia,17,1680
+Skoda,Fabia 1.4 TDI 105 HK STATI,1,5150
+Skoda,Fabia I,3,1023
+Skoda,Fabia II,1,2950
+Skoda,Felicia,1,430
+Skoda,Octavia,44,3105
+Skoda,Octavia I,4,1345
+Skoda,Octavia II,15,3707
+Skoda,Octavia III,1,6799
+Skoda,RAPID,1,8300
+Skoda,Rapid,2,6200
+Skoda,Roomster,5,2681
+Skoda,Superb,14,2810
+Skoda,Superb I,2,3525
+Skoda,Yeti,3,5299
+Smart,Forfour,5,1589
+Smart,Forfour I,2,1425
+Smart,Fortwo,2,825
+Smart,Fortwo I,1,1460
+Smart,Fortwo II,1,2900
+Smart,MCC,2,1625
+Smart,Roadster,1,5250
+SsangYong,REXTON,2,2899
+Ssangyong,Actyon Sports,1,4000
+Ssangyong,Kyron,2,2774
+Ssangyong,REXTON,3,2016
+Ssangyong,Rodius,2,2025
+Ssangyong,XLV,1,1500
+Subaru,B9 Tribeca,1,4700
+Subaru,Forester,20,3017
+Subaru,Forester I,1,2800
+Subaru,Forester II,2,3374
+Subaru,Forester III,1,4500
+Subaru,Impreza,5,1659
+Subaru,Impreza GC,1,1600
+Subaru,Impreza GD,3,2500
+Subaru,Impreza WRX,1,9000
+Subaru,Justy,1,450
+Subaru,Legacy,12,1961
+Subaru,Legacy I,1,4500
+Subaru,Legacy III,2,1000
+Subaru,Legacy IV,6,2300
+Subaru,OUTBACK,11,3336
+Subaru,OUTBACK III,2,3275
+Subaru,OUTBACK IV,2,3550
+Subaru,Tribeca,2,4975
+Subaru,XV,1,11000
+Suzuki,Alto,2,1875
+Suzuki,Baleno,1,600
+Suzuki,Grand Vitara,4,2749
+Suzuki,Ignis,1,1400
+Suzuki,Jimny,2,3075
+Suzuki,Liana,4,1124
+Suzuki,SX4,4,3537
+Suzuki,"SX4 1,6 AT",1,2950
+Suzuki,SX4 I,1,3250
+Suzuki,Swift,2,1799
+Suzuki,Vitara,3,1916
+Suzuki,Vitara II,1,3000
+Toyota,4-Runner,1,2200
+Toyota,Auris,14,4482
+Toyota,Auris I,1,3800
+Toyota,Avensis,44,3270
+Toyota,Avensis 1.8 STW MAN.,1,6550
+Toyota,Avensis 1.8 VVT-i sedan,1,5250
+Toyota,"Avensis 2,0 STW D-4D DPF",4,2950
+Toyota,"Avensis 2,2 D-4D.D-CAT.A",1,4450
+Toyota,Avensis I,1,555
+Toyota,Avensis II,15,2483
+Toyota,Avensis III,6,5565
+Toyota,Avensis Verso,7,1743
+Toyota,Aygo,5,2136
+Toyota,Aygo 1.0 VVT-i,1,5750
+Toyota,Aygo I,3,2048
+Toyota,Camry,2,6500
+Toyota,Carina,1,1400
+Toyota,Celica,1,1800
+Toyota,Corolla,31,2316
+Toyota,Corolla Verso,35,2514
+Toyota,Hilux,1,8000
+Toyota,Land Cruiser,5,8159
+Toyota,Land Cruiser LJ70,1,6650
+Toyota,Paseo,1,850
+Toyota,Previa,1,1499
+Toyota,Prius,4,5760
+Toyota,RAV4,10,3240
+Toyota,RAV4 I,1,1200
+Toyota,RAV4 II,3,3166
+Toyota,RAV4 III,1,4200
+Toyota,Urban Cruiser,2,4499
+Toyota,Verso,5,5533
+Toyota,Yaris,16,2167
+Toyota,"Yaris 1,3 MAN.6. 5D.",1,3250
+Toyota,Yaris 1.0 VVT-i,1,3750
+Toyota,Yaris 1.5 Hybrid e-CVT,1,5750
+Toyota,Yaris II,2,2480
+Toyota,Yaris Verso,4,857
+Trabant,601,1,2600
+UAZ,3303,1,1600
+Volkswagen,Beetle,9,1845
+Volkswagen,Bora,20,1080
+Volkswagen,CC,1,5800
+Volkswagen,Caddy,15,3745
+Volkswagen,"Caddy 1,6 TDI",1,3950
+Volkswagen,Caddy 1.6 TDI BMT 102 HK,1,3750
+Volkswagen,Caddy III,6,4335
+Volkswagen,Caravelle,14,3689
+Volkswagen,Crafter,5,5539
+Volkswagen,Eos,5,3450
+Volkswagen,Fox,3,793
+Volkswagen,Golf,99,2085
+Volkswagen,"Golf 1,6 TDI",1,4950
+Volkswagen,"Golf 1,6 TDI BLUEMOTION",1,4450
+Volkswagen,Golf 1.2 TSI BMT 105 HK 5,1,4850
+Volkswagen,Golf II,6,1796
+Volkswagen,Golf III,3,1150
+Volkswagen,Golf IV,28,1148
+Volkswagen,Golf Plus,29,3253
+Volkswagen,Golf Sportsvan 1.4 TSI BM,1,5250
+Volkswagen,Golf V,21,2622
+Volkswagen,Golf VI,9,5226
+Volkswagen,Jetta,18,3220
+Volkswagen,Kafer,1,5100
+Volkswagen,LT,12,2404
+Volkswagen,Lupo,1,850
+Volkswagen,Multivan,10,2809
+Volkswagen,New Beetle,2,1264
+Volkswagen,Passat,94,2224
+Volkswagen,Passat Alltrack,1,11800
+Volkswagen,Passat B3,1,80
+Volkswagen,Passat B4,9,859
+Volkswagen,Passat B5,18,857
+Volkswagen,Passat B5 FL,27,1344
+Volkswagen,Passat B6,35,2610
+Volkswagen,Passat B7,5,6739
+Volkswagen,Passat CC,9,5877
+Volkswagen,Phaeton,10,3999
+Volkswagen,Polo,24,2265
+Volkswagen,Polo III,3,500
+Volkswagen,Polo IV,6,1090
+Volkswagen,Polo IV FL,5,2306
+Volkswagen,Polo V,1,3500
+Volkswagen,Scirocco,1,6100
+Volkswagen,Sharan,32,1810
+Volkswagen,Sharan I,11,1295
+Volkswagen,Sharan II,1,10000
+Volkswagen,Tiguan,4,7674
+Volkswagen,Touareg,19,4737
+Volkswagen,Touareg I,11,5145
+Volkswagen,Touran,30,3081
+Volkswagen,Touran I,16,3178
+Volkswagen,Touran II,2,5099
+Volkswagen,Transporter,18,3276
+Volkswagen,Transporter T2,1,4999
+Volkswagen,Transporter T3,3,3900
+Volkswagen,Transporter T4,4,3012
+Volkswagen,Transporter T5,3,4133
+Volkswagen,Vento,1,750
+Volkswagen,up!,2,4249
+Volvo,240,1,1000
+Volvo,340,2,1150
+Volvo,460,1,999
+Volvo,C30,4,3337
+Volvo,C70,2,4549
+Volvo,S40,6,1668
+Volvo,S60,24,1723
+Volvo,S60 I,8,1961
+Volvo,S70,1,1250
+Volvo,S80,20,2317
+Volvo,S80 I,10,1303
+Volvo,S80 II,4,5037
+Volvo,V40 I,1,1700
+Volvo,V40 T2,1,5950
+Volvo,V50,29,2398
+Volvo,V60,2,7920
+Volvo,V60 Cross Country,1,21900
+Volvo,V60 D3,1,5250
+Volvo,V70,29,2341
+Volvo,V70 II,17,1735
+Volvo,V70 III,2,4566
+Volvo,V90,1,4200
+Volvo,XC 70,1,4700
+Volvo,XC 90,2,5200
+Volvo,XC60,4,9800
+Volvo,XC70,14,3914
+Volvo,XC90,15,7049
+Volvo,XC90 I,2,4649
+ZAZ,968,1,650
