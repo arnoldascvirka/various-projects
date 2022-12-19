@@ -1,0 +1,76 @@
+  <html>
+    <head>
+      <style>
+        /* Define the dimensions of the cube */
+        .cube {
+          width: 200px;
+          height: 200px;
+          perspective: 1000px;
+        }
+
+        /* Define the position and style of the cube's sides */
+        .cube__side {
+          position: absolute;
+          width: 200px;
+          height: 200px;
+          border: 1px solid black;
+          box-sizing: border-box;
+        }
+
+        /* Style the front side */
+        .cube__side--front {
+          transform: rotateY(0deg) translateZ(100px);
+          background: red;
+        }
+
+        /* Style the back side */
+        .cube__side--back {
+          transform: rotateY(180deg) translateZ(100px);
+          background: blue;
+        }
+
+        /* Style the top side */
+        .cube__side--top {
+          transform: rotateX(90deg) translateZ(100px);
+          background: green;
+        }
+
+        /* Style the bottom side */
+        .cube__side--bottom {
+          transform: rotateX(-90deg) translateZ(100px);
+          background: yellow;
+        }
+
+        /* Style the left side */
+        .cube__side--left {
+          transform: rotateY(-90deg) translateZ(100px);
+          background: orange;
+        }
+
+        /* Style the right side */
+        .cube__side--right {
+          transform: rotateY(90deg) translateZ(100px);
+          background: purple;
+        }
+      </style>
+    </head>
+    <body>
+      <div class="cube">
+        <div class="cube__side cube__side--front"></div>
+        <div class="cube__side cube__side--back"></div>
+        <div class="cube__side cube__side--top"></div>
+        <div class="cube__side cube__side--bottom"></div>
+        <div class="cube__side cube__side--left"></div>
+        <div class="cube__side cube__side--right"></div>
+      </div>
+
+      <script>
+        const cube = document.querySelector('.cube');
+      let angle = 0;
+
+      setInterval(() => {
+        angle += 1;
+        cube.style.transform = `rotateY(${angle}deg)`;
+      }, 30);
+      </script>
+  </html>
