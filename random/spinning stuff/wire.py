@@ -4,11 +4,14 @@ from pygame.locals import *
 from OpenGL.GL import *
 from OpenGL.GLU import *
 import pywavefront
+import os
+#---------------------------------------------------set working directory
+os.chdir("D:/various-projects/random/spinning stuff")
 
-#---------------------------------------------------scene
 #---------------------------------------------------replace '' with your obj
-scene = pywavefront.Wavefront('.obj', collect_faces=True) 
-
+scene = pywavefront.Wavefront(' /models/cube/cube.obj', collect_faces=True) 
+#---------------------------------------------------change number to change how far obj is 
+persp = -10
 
 #---------------------------------------------------initialize
 pygame.init()
@@ -16,7 +19,7 @@ display = (1280,720)
 pygame.display.set_mode(display, DOUBLEBUF|OPENGL)
 
 gluPerspective(45, (display[0] / display[1]), 1, 500.0)
-glTranslatef(0.0, 0.0, -40)
+glTranslatef(0.0, 0.0, persp) 
 glRotatef(0, 0, 0, 0)
 glPolygonMode(GL_FRONT_AND_BACK, GL_LINE) #---------replace LINE with FILL to remove wireframe
 
