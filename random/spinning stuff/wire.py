@@ -9,9 +9,9 @@ import os
 os.chdir("D:/various-projects/random/spinning stuff")
 
 #---------------------------------------------------replace '' with your obj
-scene = pywavefront.Wavefront(' /models/cube/cube.obj', collect_faces=True) 
+scene = pywavefront.Wavefront(' /models/rat/rat_licht.obj', collect_faces=True) 
 #---------------------------------------------------change number to change how far obj is 
-persp = -10
+persp = -40
 
 #---------------------------------------------------initialize
 pygame.init()
