@@ -17,7 +17,7 @@ plot.setYRange(-30000, 30000)\
 
 # Start the audio stream and visualizer loop
 while True:
-    data = np.fromstring(stream.read(1024), dtype=np.int16)
+    data = np.frombuffer(stream.read(1024), dtype=np.int16)
     plot.plot(data, clear=True)
     plot.getPlotItem().hideAxis('bottom')
     plot.getPlotItem().hideAxis('left')
